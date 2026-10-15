@@ -14,7 +14,7 @@ O projeto é desenvolvido em fases, cada uma adicionando um conceito de back-end
 | 2 | RabbitMQ: `POST /orders` → 202, consumidores de estoque e pagamento | ⏳ Próxima |
 | 3 | Retry com backoff, DLQ, consumidores idempotentes | 🔜 |
 | 4 | Outbox pattern, saga com compensação, lock otimista no estoque | 🔜 |
-| 5 | Testes de integração com Testcontainers, observabilidade | 🔜 |
+| 5 | Testes de integração, observabilidade, Docker da aplicação, CI com GitHub Actions, Swagger/OpenAPI | 🔜 |
 
 ## Stack
 
