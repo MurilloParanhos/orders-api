@@ -31,3 +31,17 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Variáveis de ambiente / segredos ###
+.env
+.env.*
+!.env.example
+
+### Logs ###
+*.log
+logs/
+
+### Sistema operacional ###
+.DS_Store
+Thumbs.db
+desktop.ini
